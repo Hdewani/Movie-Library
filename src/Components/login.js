@@ -25,7 +25,7 @@ const Login = () => {
         <div
             className="align-items-center justify-content-center bg-fullwidth login-container" >
             <div className="row justify-content-center align-items-center" style={{ height: '100%' }}>
-                <div className="col-md-4 p-5">
+                <div className="col-md-4 p-lg-2 w-25">
                     <div className="card">
                         <div className="card-body">
                             <h3 className="card-title text-center">LogIn</h3>
@@ -64,7 +64,7 @@ const Login = () => {
                                     />
                                 </div>
                                 <div className="d-flex justify-content-center">
-                                    <button type="submit" className="btn btn-primary w-50">Sign In</button>
+                                    <button type="submit" className="btn btn-primary w-50">Log In</button>
                                 </div>
                                 <h6 className="text-center mt-3">
                                     Don't Have Account? <a href="/signIn">Create new Account</a>

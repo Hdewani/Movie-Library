@@ -20,7 +20,7 @@ const SignIn = () => {
         <div
             className="align-items-center justify-content-center bg-fullwidth login-container">
             <div className="row justify-content-center align-items-center" style={{ height: '100%' }}>
-                <div className="col-md-4 p-5">
+                <div className="col-md-5 w-25">
                     <div className="card">
                         <div className="card-body">
                             <h3 className="card-title text-center">Create Account</h3>
